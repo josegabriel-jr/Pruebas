@@ -45,9 +45,11 @@ para obtener el usuario se debe enviar en el body el email por el cual se buscar
 ------------
 
 # Crud Materia
+------------
 ### Post
 ------------
 **localhost:8080/api/materia**
+
 body puede contener los datos de materia. los datos son siguientes
 **{
 "nombre_materia": "example",
