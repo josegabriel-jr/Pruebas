@@ -72,4 +72,5 @@ Se obtienen un ```Json``` las materias registradas
 ### Delete
 ------------
 **localhost:8080/api/materia/:id**
+
 **id = _id**  de materia el cual permite eliminar una materia
